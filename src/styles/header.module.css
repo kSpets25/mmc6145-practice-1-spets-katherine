@@ -34,9 +34,12 @@
     background-color: blueviolet;
 
 } 
-  .navLink:hover {
-    background-color: #575757;
-  }
+
+.navItem:hover {
+    color: lightcoral
+}
+  
+
   
   
 
