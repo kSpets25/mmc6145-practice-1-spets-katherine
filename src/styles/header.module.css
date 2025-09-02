@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    width: 100%;
+    height: 100px;
+    padding: 1rem 2rem; 
+}
+
+.nav {
+    display: flex;
+    gap: 24px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    width: 30px;
+}
+
+
+.navLink {
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    gap: 1.5rem;
+    padding: 0;
+    
+}
+
+.airplane {
+    width: 40px;
+    background-color: blueviolet;
+
+} 
+  .navLink:hover {
+    background-color: #575757;
+  }
+  
+  
+
+
+
