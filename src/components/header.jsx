@@ -9,14 +9,11 @@ export default function Header() {
   return (
     <header className={style.header}>
               <div className={style.logo}>
-                <img className={style.airplane}
-                src={airplane} from alt="airplane logo"/>
+              <Link className={style.navItem} to="/"><img className={style.airplane}
+                src={airplane} from alt="airplane logo" /></Link>
               </div>
           <nav className={style.nav}>
               <ul className={style.navLink}>
-                <li>
-                  <Link className={style.navItem} to="/">Home</Link>
-                </li>
                 <li>
                   <Link className={style.navItem} to="/about">About</Link>
                 </li>

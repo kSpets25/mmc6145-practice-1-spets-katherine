@@ -1,4 +1,8 @@
 
 .sectionContact {
-    background-color: brown;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    color: blue 
+    
 }

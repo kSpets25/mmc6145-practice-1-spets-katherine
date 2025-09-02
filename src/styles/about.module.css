@@ -1,4 +1,10 @@
 
+
+
 .sectionAbout {
     background-color: aqua;
+    display: flex;
+    justify-content: center;
+    color: blue 
+    
 }
