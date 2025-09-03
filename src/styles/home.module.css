@@ -1,8 +1,38 @@
 
+
+.backgroundHome {
+    background-image: url('../assets/vacationImage1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+}
+
 .sectionHome {
     display: flex;
     justify-content: center;
     color: blue 
     
 }
+
+.mainHome {
+    display: flex;
+}
+
+.homeTitle {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    padding-top: 150px;
+   
+    
+}
+
+
+    
+
+
+
 

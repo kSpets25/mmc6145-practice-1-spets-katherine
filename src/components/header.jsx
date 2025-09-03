@@ -12,6 +12,7 @@ export default function Header() {
               <Link className={style.navItem} to="/"><img className={style.airplane}
                 src={airplane} from alt="airplane logo" /></Link>
               </div>
+             <div><h2></h2></div>
           <nav className={style.nav}>
               <ul className={style.navLink}>
                 <li>
